@@ -10,4 +10,7 @@
 
 @interface newCepingViewController : UIViewController
 @property(nonatomic,strong)NSString * parameter;
+
+
+
 @end
