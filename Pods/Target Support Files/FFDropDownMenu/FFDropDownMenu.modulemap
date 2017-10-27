@@ -1,0 +1,6 @@
+framework module FFDropDownMenu {
+  umbrella header "FFDropDownMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
